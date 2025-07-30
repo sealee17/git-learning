@@ -1,6 +1,10 @@
 안녕하세요 오늘은 수요일 입니다.
+<<<<<<< HEAD:conflict.txt
 <<<<<<< HEAD
 날씨가 너무 맑아요.
 =======
 오늘은 날씨가 맑고 피곤해요.
 >>>>>>> 2398e3a (머지 컨플릭트 이해하기)
+=======
+너무 더워요.
+>>>>>>> db9ddf5 (Modified confict file):weather.txt
