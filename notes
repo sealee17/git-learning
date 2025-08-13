@@ -1,0 +1,12 @@
+NOTES
+
+What is a Rebase?
+    Rebase: 재구성
+    squash: 압축
+
+    Rebase 하는 방법
+        rebase는 git rebase -i HEAD~(rebase하는 commit의 수)
+        hjkl 키 사용
+
+What is a Branch?
+    Branch: 동일한 작업들의 관련있는 커밋들의 묶음
